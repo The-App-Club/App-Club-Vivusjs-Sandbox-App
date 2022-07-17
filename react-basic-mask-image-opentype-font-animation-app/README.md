@@ -1,0 +1,12 @@
+- Reference
+  - [boxy-svg](https://boxy-svg.com/)
+  - [svg-path-editor](https://yqnn.github.io/svg-path-editor/)
+  - [mask effect](https://ics.media/entry/210701/)
+  - [svg-masking-examples](https://vanseodesign.com/web-design/svg-masking-examples-1/)
+  - [opentype.js](https://github.com/opentypejs/opentype.js)
+  - [vivus.js](https://github.com/maxwellito/vivus)
+
+- Credit Fonts
+  - [Edu VIC WA NT Beginner](https://fonts.google.com/specimen/Edu+VIC+WA+NT+Beginner)
+  - [Roboto](https://fonts.google.com/specimen/Roboto)
+  - [Oleo Script](https://fonts.google.com/specimen/Oleo+Script)
